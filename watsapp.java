@@ -53,4 +53,7 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+} 
+
+day 2
+11111111111111111111111111111111111
